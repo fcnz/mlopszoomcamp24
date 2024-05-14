@@ -1,4 +1,4 @@
 pandas
 pyarrow
 matplotlib
-sklearn
+scikit-learn
