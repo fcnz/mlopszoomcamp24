@@ -1,4 +1,4 @@
 pandas
-pyarrow
+pyarrow==13.0.0 # Default version segfaults on mac
 matplotlib
 scikit-learn
