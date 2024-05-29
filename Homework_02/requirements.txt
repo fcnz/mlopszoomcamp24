@@ -1,0 +1,11 @@
+mlflow
+pandas
+pyarrow
+matplotlib
+scikit-learn
+numpy
+hyperopt
+sklearn
+
+# Setuptools 70 causing issues
+setuptools==69.5.1
